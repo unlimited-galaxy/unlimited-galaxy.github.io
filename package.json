@@ -27,7 +27,7 @@
     "hexo-renderer-markdown-it": "^5.0.0",
     "hexo-renderer-stylus": "^1.1.0",
     "hexo-server": "^2.0.0",
-    "hexo-theme-next": "^8.0.0-rc.5",
+    "hexo-theme-next": "^8.15.1",
     "hexo-word-counter": "0.0.2",
     "markdown-it-footnote": "^3.0.3"
   }
