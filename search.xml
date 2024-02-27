@@ -1,403 +1,575 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title></title>
-    <url>/index/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>[ES!!] ABYSS</title>
-    <url>/wedding_march/</url>
+    <title>Chiaki Story List</title>
+    <url>/chiakistorylist/</url>
     <content><![CDATA[
+Interacts with refers to who Chiaki speaks with in the story ONLY.
+
+  
+    Story Name
+    Story Type
+    Interacts with...
+    Read Story At...
+  
+  
+    1st Main Story
+    Main
+    Ryuseitai, Eichi, Subaru
     
-        
-        
-            
-                ABYSS
-                ABYSS
-                Start Reading
-            
-            
-                
-                    A mysterious urn placed in the Marine Life Club brings back memories of bygone days. What lies beneath the mystery of the ABYSS that Kanata and the others experienced during their childhood…?
-                
-                
-                    
-                        
-                            Season
-                        
-                        
-                            Present (Winter) & 13 Years Ago (Winter)
-                        
-                    
-                    
-                        
-                            Chapters
-                        
-                        
-                            16
-                        
-                    
-                    
-                        
-                            Writer
-                        
-                        
-                            Akira
-                        
-                    
-                    
-                        
-                            Characters
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                    
-                    
-                        
-                            Translation
-                        
-                        
-                            310mc
-                        
-                    
-                    
-                        
-                            Proofreading
-                        
-                        
-                            ryuseipuka
-                        
-                    
-                
-            
-        
+  
+  
+    Pirate Festival
+    Event
+    Ryuseitai, UNDEAD
     
-
-
-
-    .preview-wrapper {
-        display: none;
-    }
-    @media (max-width: 567px) {
-        .post-block {
-            padding: 5px 10px 8px !important;
-        }
-    }
-
-
+  
+  
+    Sports Festival
+    Event
+    Basketball Club
     
-        
-        
-            
-                
-            
-            
-                ABYSS
-                ABYSS
-                
-                    Start Reading
-                
-            
-            
-                
-                    A mysterious urn placed in the Marine Life Club brings back memories of bygone days. What lies beneath the mystery of the ABYSS that Kanata and the others experienced during their childhood…?
-                
-                
-                    
-                    
-                        Season
-                    
-                    
-                        Present (Winter) & 13 Years Ago (Winter)
-                    
-                
-                
-                    
-                        Chapters
-                    
-                    
-                        16
-                    
-                
-                
-                    
-                        Writer
-                    
-                    
-                        Akira
-                    
-                
-                
-                    
-                        Characters
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                
-                
-                    
-                        Translation
-                    
-                    
-                        310mc
-                    
-                
-                
-                    
-                        Proofreading
-                    
-                    
-                        ryuseipuka
-                    
-                    
-                
-                
-                    
-                        Extra Information
-                    
-                    
-                        
-                            
-                                Scout
-                            
-                            
-                                Heartbeat of the Sea – Look back –
-                            
-                        
-                        
-                            
-                                Scout Duration
-                            
-                            
-                                2023/8/30 (15:00 JST) - 2023/9/14 (15:00 JST)
-                            
-                        
-                    
-                
-                
-                    
-                        CG Gallery
-                    
-                    
-                        
-                            
-                                
-                                    
-                                
-                                
-                                    The Sea Of ⬛ Trickling Down 1
-                                
-                            
-                            
-                                
-                                    
-                                
-                                
-                                    The Sea Of ⬛ Trickling Down 6
-                                
-                            
-                            
-                                
-                                    
-                                
-                                
-                                    The Sea Of ⬛ Trickling Down 10
-                                
-                            
-                        
-                    
-                
-                
-                    
-                        Associated Cards
-                    
-                    
-                        
-                            
-                                
-                                    
-                                        
-                                    
-                                    
-                                        
-                                    
-                                    
-                                        
-                                            
-                                            
-                                        
-                                    
-                                
-                                
-                                    [] Kanata Shinkai
-                                    [ひみつのうみ] 深海 奏汰
-                                    
-                                        
-                                            
-                                                
-                                                
-                                            
-                                            
-                                                
-                                                
-                                            
-                                            
-                                                
-                                                
-                                            
-                                        
-                                    
-                                
-                            
-                            
-                                
-                                    
-                                        
-                                    
-                                    
-                                        
-                                    
-                                    
-                                        
-                                            
-                                            
-                                        
-                                    
-                                
-                                
-                                    [] Madara Mikejima
-                                    [味方する海] 三毛縞 斑
-                                    
-                                        
-                                            
-                                                
-                                                
-                                            
-                                            
-                                                
-                                                
-                                            
-                                            
-                                                
-                                                
-                                            
-                                        
-                                    
-                                
-                            
-                            
-                                
-                                    
-                                        
-                                    
-                                    
-                                        
-                                    
-                                    
-                                        
-                                            
-                                            
-                                        
-                                    
-                                
-                                
-                                    [] Souma Kanzaki
-                                    [果てない海] 神崎 颯馬
-                                    
-                                        
-                                            
-                                                
-                                                
-                                            
-                                            
-                                                
-                                                
-                                            
-                                            
-                                                
-                                                
-                                            
-                                        
-                                    
-                                
-                            
-                            
-                                
-                                    
-                                        
-                                    
-                                    
-                                        
-                                    
-                                    
-                                        
-                                            
-                                            
-                                        
-                                    
-                                
-                                
-                                    [] Kaoru Hakaze
-                                    [風そよぐ海] 羽風 薫
-                                    
-                                        
-                                            
-                                                
-                                                
-                                            
-                                            
-                                                
-                                                
-                                            
-                                            
-                                                
-                                                
-                                            
-                                        
-                                    
-                                
-                            
-                        
-                    
-                
-            
-            
-                
-                    
-                        
-                            The Sea Of ⬛ Trickling Down (Chapter 1–8)
-                        
-                        
-                            The Sea Of ⬛ Trickling Down (Chapter 9–12)
-                        
-                        
-                            Epilogue
-                        
-                    
-                
-            
-        
+  
+  
+    Christmas Live
+    Event
+    Ryuseitai, 2wink
     
-
+  
+  
+    Triumph of the Emperor
+    Event
+    Ryuseitai, fine
+    
+  
+  
+    Supernova
+    Event
+    Ryuseitai, Eichi, Jin
+    
+  
+  
+    Beach Match
+    Event
+    Ryuseitai, 2wink, Rei
+    
+  
+  
+    Scroll of the Elements
+    Event
+    Ryuseitai, Akatsuki
+    
+  
+  
+    Holiday Party
+    Event
+    Ryuseitai, UNDEAD
+    
+  
+  
+    Climax
+    Event
+    Ryuseitai, Eichi, Subaru, Kaoru
+    
+  
+  
+    Purple Wisterias of May
+    Event
+    Shinobu, Kanata, Madara, Mitsuru
+    
+  
+  
+    Shooting Star Festival
+    Event
+    Ryuseitai, Valkyrie
+    
+  
+  
+    Crossroad
+    Event
+    Keito, Rei, Kuro, Kaoru
+    
+  
+  
+    Sweet Halloween
+    Event
+    Ryuseitai, Ra*bits, MaM
+    
+  
+  
+    SS
+    Main
+    Subaru
+    
+  
+  
+    Boarding Live
+    Event
+    Ryuseitai, 2wink, Tsukasa
+    
+  
+  
+    School Festival 4
+    Event
+    Ryuseitai
+    
+  
+  
+    Orihime and Hikoboshi
+    Event
+    Ryuseitai, Trickstar
+    
+  
+  
+    Rainbow
+    Main
+    Jin, Hokuto, Tori, Madara
+    
+  
+  
+    Saga
+    Main
+    Jin, Hokuto, Tori, Jun, Hiyori, Eichi, Seiya
+    
+  
+  
+    Hot & Elegant Chocolat Fes
+    Event
+    Ryuseitai, Valkyrie
+    
+  
+  
+    Meteor Impact
+    Event
+    Ryuseitai, Shu, Subaru, Madara, Kuro, Keito
+    
+  
+  
+    2nd Main Story
+    Main
+    Ryuseitai, Rinne
+    
+  
+  
+    Date Plan
+    Event
+    Kaoru, Niki, Natsume, Mitsuru
+    
+  
+  
+    Motor Show
+    Event
+    Ryuseitai, Hiiro, Aira
+    
+  
+  
+    Comet Show
+    Event
+    
+    
+  
+  
+    Submarine
+    Main
+    
+    
+  
+  
+    Ninja Clan
+    Event
+    
+    
+  
+  
+    SS Finals
+    Main
+    
+    
+  
+  
+    Supervillain
+    Event
+    
+    
+  
+  
+    Graduation
+    Main
+    
+    
+  
+  
+    Wedding March!
+    Event
+    
+    
+  
+  
+    Parallel World
+    Climax Event
+    
+    
+  
+  
+    Tropical
+    Event
+    
+    
+  
+  
+    Stella Maris
+    Climax Event
+    
+    
+  
+  
+    Hero Show
+    Scout
+    
+    
+  
+  
+    Police
+    Scout
+    
+    
+  
+  
+    Tough Guy
+    Scout
+    
+    
+  
+  
+    Strawberry Colored Holiday
+    Scout
+    (Only mentioned)
+    
+  
+  
+    WANTED!!!
+    Scout
+    
+    
+  
+  
+    Summer Sky Pilot
+    Scout
+    
+    
+  
+  
+    Salon de Thé
+    Scout
+    
+    
+  
+  
+    Sparkling First Years
+    Scout
+    
+    
+  
+  
+    Gang
+    Scout
+    
+    
+  
+  
+    Buddy
+    Scout
+    
+    
+  
+  
+    Autumn Forest
+    Scout
+    
+    
+  
+  
+    Military
+    Scout
+    
+    
+  
+  
+    Toryumon
+    Scout
+    
+    
+  
+  
+    Dollhouse
+    Scout
+    
+    
+  
+  
+    Ushimairi (Part Two)
+    Scout
+    
+    
+  
+  
+    Astraea's Atelier
+    Scout
+    
+    
+  
+  
+    Red Hot Island
+    Scout
+    
+    
+  
+  
+    Scorpio's Venom
+    Scout
+    
+    
+  
+  
+    Sports Survivors
+    Scout
+    
+    
+  
+  
+    Banquet Beneath the Clouded Moon
+    Scout
+    
+    
+  
+  
+    Sub Story 1, 2, 3
+    Idol
+    Anzu
+    
+  
+  
+    Night Watch
+    Idol
+    Anzu, Jin
+    
+  
+  
+    Cat Searching
+    Idol
+    Anzu
+    
+  
+  
+    Hello Kitty
+    Idol
+    Ryuseitai
+    
+  
+  
+    Legendary Hero!
+    Idol
+    
+    
+  
+  
+    Study Heroes
+    Idol
+    
+    
+  
+  
+    Birthday Story
+    Idol
+    
+    
+  
+  
+    Morning Practice
+    Idol
+    
+    
+  
+  
+    Hero Game
+    Idol
+    
+    
+  
+  
+    Melancholic Club Activities
+    Idol
+    
+    
+  
+  
+    Happy Days
+    Idol
+    
+    
+  
+  
+    Daily Life of Basketball Club
+    Idol
+    
+    
+  
+  
+    3-A Christmas Party
+    Idol
+    
+    
+  
+  
+    A Match with Full Force
+    Idol
+    
+    
+  
+  
+    Yowamushi Pedal Collab
+    Idol
+    
+    
+  
+  
+    Idol Story 1
+    Idol
+    
+    
+  
+  
+    Idol Story 2
+    Idol
+    
+    
+  
+  
+    Idol Story 3
+    Idol
+    
+    
+  
+  
+    Always Hold a Heroic Heart
+    Idol
+    
+    
+  
+  
+    Weird Tales of the Library
+    Idol
+    
+    
+  
+  
+    You're A Hero, Too!
+    Idol
+    
+    
+  
+  
+    Ties of a Pointer Finger
+    Idol
+    
+    
+  
+  
+    At Your Service, Master!
+    Idol
+    
+    
+  
+  
+    Dream-like Days and the Hero
+    Idol
+    
+    
+  
+  
+    Birthday Story
+    Idol
+    
+    
+  
+  
+    Tetora Idol Story 2
+    Idol
+    
+    
+  
+  
+    Tori Idol Story 3
+    Idol
+    
+    
+  
+  
+    New Staff
+    Idol
+    
+    
+  
+  
+    Emergency! Secret Mission
+    Idol
+    
+    
+  
+  
+    Do The Norm
+    Idol
+    
+    
+  
+  
+    Gathering the Puzzle Pieces
+    Idol
+    
+    
+  
+  
+    me, the sea, and everyone with me
+    Idol
+    
+    
+  
+  
+    Nostalgic School
+    Idol
+    
+    
+  
+  
+    Work and Private
+    Idol
+    
+    
+  
+  
+    Hiiro Idol Story SHIN
+    Idol
+    
+    
+  
+  
+    Meal Voucher of Justice
+    Idol
+    Niki
+    
+  
 ]]></content>
       <categories>
         <category>Enstars</category>
-        <category>ES!!</category>
-        <category>Marine Life Club</category>
+        <category>Chiaki</category>
       </categories>
       <tags>
-        <tag>Story Index</tag>
-        <tag>Scout Story</tag>
-        <tag>Akira</tag>
+        <tag>List</tag>
       </tags>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/index/</url>
+    <content><![CDATA[]]></content>
   </entry>
 </search>

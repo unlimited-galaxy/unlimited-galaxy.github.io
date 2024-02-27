@@ -15,8 +15,31 @@
     <atom:link href="https://unlimited-galaxy.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>All about Ryuseitai</description>
-    <pubDate>Thu, 21 Dec 2023 12:29:48 GMT</pubDate>
+    <pubDate>Sun, 25 Feb 2024 06:00:00 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Chiaki Story List</title>
+      <link>https://unlimited-galaxy.github.io/chiakistorylist/</link>
+      <guid>https://unlimited-galaxy.github.io/chiakistorylist/</guid>
+      <pubDate>Sun, 25 Feb 2024 06:00:00 GMT</pubDate>
+      
+      <description>List of Chiaki Stories</description>
+      
+      
+      
+      
+      <category domain="https://unlimited-galaxy.github.io/categories/Enstars/">Enstars</category>
+      
+      <category domain="https://unlimited-galaxy.github.io/categories/Enstars/Chiaki/">Chiaki</category>
+      
+      
+      <category domain="https://unlimited-galaxy.github.io/tags/List/">List</category>
+      
+      
+      <comments>https://unlimited-galaxy.github.io/chiakistorylist/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title></title>
@@ -30,35 +53,6 @@
       
       
       <comments>https://unlimited-galaxy.github.io/index/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>[ES!!] ABYSS</title>
-      <link>https://unlimited-galaxy.github.io/wedding_march/</link>
-      <guid>https://unlimited-galaxy.github.io/wedding_march/</guid>
-      <pubDate>Wed, 30 Aug 2023 07:00:00 GMT</pubDate>
-      
-      <description>[ES!!] A mysterious urn placed in the Marine Life Club brings back memories of bygone days. What lies beneath the mystery of the ABYSS that Kanata and the others experienced during their childhood…?</description>
-      
-      
-      
-      
-      <category domain="https://unlimited-galaxy.github.io/categories/Enstars/">Enstars</category>
-      
-      <category domain="https://unlimited-galaxy.github.io/categories/Enstars/ES/">ES!!</category>
-      
-      <category domain="https://unlimited-galaxy.github.io/categories/Enstars/Marine-Life-Club/">Marine Life Club</category>
-      
-      
-      <category domain="https://unlimited-galaxy.github.io/tags/Story-Index/">Story Index</category>
-      
-      <category domain="https://unlimited-galaxy.github.io/tags/Scout-Story/">Scout Story</category>
-      
-      <category domain="https://unlimited-galaxy.github.io/tags/Akira/">Akira</category>
-      
-      
-      <comments>https://unlimited-galaxy.github.io/wedding_march/#disqus_thread</comments>
       
     </item>
     
