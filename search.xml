@@ -3,7 +3,8 @@
   <entry>
     <title>Chiaki Story List</title>
     <url>/chiakistorylist/</url>
-    <content><![CDATA[
+    <content><![CDATA[Chiaki Story List
+
 Interacts with refers to who Chiaki speaks with in the story ONLY.
 
   
@@ -566,10 +567,5 @@ Interacts with refers to who Chiaki speaks with in the story ONLY.
       <tags>
         <tag>List</tag>
       </tags>
-  </entry>
-  <entry>
-    <title></title>
-    <url>/index/</url>
-    <content><![CDATA[]]></content>
   </entry>
 </search>
