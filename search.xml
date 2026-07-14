@@ -1,25 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/hello-world/</url>
-    <content><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.
-Quick Start
-Create a new post
-$ hexo new &quot;My New Post&quot;
-More info: Writing
-Run server
-$ hexo server
-More info: Server
-Generate static files
-$ hexo generate
-More info: Generating
-Deploy to remote sites
-$ hexo deploy
-More info: Deployment
-]]></content>
-  </entry>
-  <entry>
     <title>Theorizing: Midori and Phone Blocking Chiaki</title>
     <url>/midori_phone_blocking/</url>
     <content><![CDATA[
@@ -120,97 +101,6 @@ while it can be inconvenient that chiaki can’t contact him on the phone… it�
         <category>Answered Questions</category>
         <category>Midori Rambles</category>
         <category>MidoChia Rambles</category>
-      </categories>
-      <tags>
-        <tag>Question and Answer</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Answered Question: About Chiaki’s ‘Takamine-kun’ line in Sweet Halloween</title>
-    <url>//20240822_1/</url>
-    <content><![CDATA[
-hey… diff anon piggybacking off of the ask about chiakis changes in tone over the years. you said that theres multiple implications over chiakis tone change in the &quot;takamine-kun&quot; line… do you mind me asking what those implications are? the little worm inside my brain that loves chiaki has its interests peaked
-
-Sent and answered in August 2024. tweet link of the answer
-
-WAH… DIDN’T EXPECT SOMEONE TO BE INTERESTED
-To be honest, I need to confirm with a native Japanese speaker about ALL the implications BUT I’ll explain my thought process and possible implications.
-This is a continuation of what I said in the answer already, so for any missing context, it might have already been covered in there. The ask and the answer here.
-So this part about Chiaki is notable about him in general, rather than specifically the difference between 1st/2nd year Chiaki and current Chiaki.
-I’ll just copy paste what I said real quick:
-
-There are a few moments here and there when Chiaki words himself in a more meek or unsure manner and starts speaking more politely (when he gets scared that there’s a ghost in 1st year Chapter 1, when Kuro first appears and freaks him out in Chapter 5). He still does this sort of thing nowadays when he gets scared, happens as recent as VS Gourmet, Praise of Delicious Flavors 9 (cute).
-Sweet halloween is the one that did this a LITTLE differently where he kinda talks more casually and plainly to express politeness. It’s mainly in let’s party 2, the &quot;Takamine-kun&quot; line. I think, because he’s talking to Midori (someone younger than him), he shows that politeness by AVOIDING talking in a rough/informal manner, rather than showing it through wording himself in an OVERLY polite manner (which is how you would speak to someone older than or above you, and that doesn’t work here when Midori is younger than him)…
-
-As I said, there’s a lot more implications to this than what I wrote above. On one hand, it’s likely that the reason he talks to Midori like this is to express politeness to someone younger (Using &quot;Takamine-kun&quot; and asking nicely), but there is another implication to it.
-Chiaki’s typical way of speaking can make him sound more confident or bold due to the masculine tone. So when Chiaki speaks a lot more plainly, the sudden lack of masculine tone gives off the feeling of a vulnerable or &quot;unadulterated&quot; side of him, or just not as confident of himself.
-For example, Chiaki typically says suman, sumanai, or gomen na to apologize, all of which sound masculine. So when he uses gomen instead, it sounds less &quot;bold&quot; in comparison. (Note, the na is what gives off the masculine feel)
-This sort of thing is what stands out about the Sweet Halloween scene. First, let’s break down the scene a bit. Chiaki says:
-
-eh? ta-takamine? takamine-kun, kyodai na gankyuu o oshitsukeru no wa yametekureru?
-jibun-tachi de tsukutta kara kazari no nisemono datte wakatteru kedo, yappari gurokute kimochi warui!
-
-
-Wh—!? T-Takamine? Takamine-kun, could you please not shove that giant eyeball in my face…?
-We made them ourselves, so I know it’s fake and all, but it’s seriously creepy-looking…!
-
-The bolded parts are the parts that make you think &quot;Wait, that’s not the typical way Chiaki speaks&quot;. If it were the usual Chiaki with his masculine way of speaking, he’d have said it like this:
-
-eh? ta-takamine? takamine, kyodai na gankyuu o oshitsukeru no wa yametekurenai ka?
-jibun-tachi de tsukutta kara kazari no nisemono datte wakatteru ga, yappari gurokute kimochi warui zo!
-
-(Last part with kimochi warui is debatable to be honest, he could still say it as is, without the added zo, but I think it’d have been way more typical Chiaki to add a zo or na at the end)
-So first, there’s a change in how he calls Midori, then he switches to a plain non-masculine tone to politely ask Midori to stop, then he uses kedo for &quot;but&quot; instead of ga (which fits the masculine tone. And if Chiaki ever uses kedo, it’s with na at the end of the sentence, like kedo na), and then ends it with a plain kimochi warui
-I neglected to mention that this has happened before in two occasions, Meteor Impact and VS GOURMET. EXCEPT!!! Unlike in Sweet Halloween, he was just talking to himself while freaking out AND it still sounds a bit different from the above case, since again, he was also trying to ask Midori in a politer way to stop.
-In Meteor Impact 1st year Chapter 1, right at the start:
-
-(…kowai! hisshi ni kakkoii koto o itte onore o kobu shitemita kedo mou muri! kaeritai~!)
-
-
-(…It’s too scary! I’m trying so hard to encourage myself with super cool catchphrases, but I can’t take this anymore! I wanna go home~!!)
-
-The bolded part sounds childish, I tried to show this by making him say &quot;I wanna go home~!&quot;. But to be fair, it makes sense for Chiaki to sound innocent and vulnerable during his 1st year days.
-Then we have VS GOURMET Praise of Delicious Flavors 9, when Mayoi starts mumbling:
-
-eh. futsuu ni kowai!
-genchou to iu koto ni shite kizukanakatta koto ni shitai ga… mi ni ikanakya dame kanaa!?
-
-
-Huh!? This is just freaky!
-I really just want to pretend I didn’t notice it and wave it off as a hallucination, but… Do I have to go and see what it is~!?
-
-The futsuu ni kowai! is a very… unfiltered? way to express it, it almost sounds teenager-like. Here, he actually DOES use one typical masculine way of speaking, the ga (&quot;but&quot;), but then immediately speaks extremely casually again at the very end. I tried to show this with the italics and Chiaki expressing his fear in a more casual way with him saying &quot;just freaky!&quot;. The moment he realizes it’s Mayoi he goes back to speaking his usual way.
-So, these are my own personal interpretation and speculations, but here are the things I find interesting about all of this:
-
-
-It’s likely that this is a very unfiltered Chiaki. He’s so freaked out that he can’t even respond in his usual way… if that makes sense.
-
-
-It’s possible this is related to how Chiaki used to speak as a kid, since it’s much more plain. It also sounds a bit more childish from the sudden loss of ANY masculine/bold tone, so while it feels more or less natural to hear 1st year Chiaki freak out like that, Chiaki still reacting in that tone at age 18-19 feels &quot;oh…?&quot;
-
-
-The main ways we’ve seen it is either Chiaki being freaked out by something scaring him, or Midori freaking Chiaki out. In all these years of content and story, Midori is still the only person who deliberately spooked Chiaki so hard that it brought out this different, unfiltered side of him in response. Very fitting for Midori’s role in Chiaki’s life. Heh.
-
-
-As mentioned in my previous ask, when Chiaki gets spooked he starts speaking politely, typically towards the ghost that’s freaking him out (&quot;I’m so sorry! Please don’t curse me!&quot;). But in these cases, he’s speaking casually and plainly. So it’s interesting that Chiaki’s speaking to Midori in that tone. It’s almost like Chiaki is speaking to Midori on the same level (not as someone older than him, and neither as if Midori is above him). And I must emphasize… Midori deliberately tried to scare him here, so Midori himself brought this side of Chiaki out with his actions. (Very Important) (Very Relevant To Their Relationship)
-
-
-All in all, just a very interesting thing about Chiaki that’s fun to take note of as we get to see more of this unfiltered side of him!!
-The main thing I’m not sure of is if I’m overreaching a little TOO much. To be clear, it IS significant and I see JP ChiakiP comment on it all the time whenever Chiaki does this (that Sweet Halloween line in particular is still very famous for the sudden Takamine-kun and used often in fanworks under similar &quot;Midori scaring Chiaki&quot; situations, and the recent Gourmet scenes had ChiakiP go &quot;he’s talking plainly here it feels unfiltered and cute&quot;), but it may not be significant in the way that I’m personally thinking. So it’d be nice to just get a full confirmation by having a discussion about it with a JP native speaker (tempted to get a JP lesson with a teacher about this… anything for Him)
-Some notes:
-
-
-Chiaki does occasionally use kedo (without the na) to say &quot;but&quot;, but very sparsely or because it grammatically fits better. Otherwise, he typically says kedo na or ga.
-
-
-Chiaki’s spiral towards Subaru in Meteor Impact also contains a bit of that &quot;sounding more vulnerable in his tone&quot;, but it’s in an entirely different way from how he speaks when he gets spooked. It’s more that his tone also shows how emotionally distraught and unfiltered he is at that moment.
-
-
-If I have more to add, I’ll edit this post in and mention an update on the tweet. Thank you for asking, I got so into it because I just love Chiaki so much!! Let me know if anything was unclear or if you have other questions.
-]]></content>
-      <categories>
-        <category>Answered Questions</category>
-        <category>Chiaki Rambles</category>
       </categories>
       <tags>
         <tag>Question and Answer</tag>
@@ -323,6 +213,52 @@ climax, sweet halloween, zodiac, orihime and hikoboshi, meteor impact, !! main s
       <categories>
         <category>Answered Questions</category>
         <category>MidoChia Rambles</category>
+      </categories>
+      <tags>
+        <tag>Question and Answer</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Answered Question: Fandom’s Theories About Eichi And Chiaki’s Relationship Until Its Reveal</title>
+    <url>//20240208_1/</url>
+    <content><![CDATA[
+Wait I didn’t consider that you were there before the reveal of Chiaki and Eichi’s connection 👀 Do you think you can give your experience on what it was like when people were trying to figure out what kind of connection those two had and what it was like when it was finally revealed they’re childhood friends from the hospital? Sorry I know you get a bunch of questions on what it was like in the old days of the fandom. But speaking as a newbie to Enstars I find it so fun and interesting to get info on what it was like in the early years of the fandom from those who were there and are still invested!
+
+Sent and answered in February 2024. tweet link of the answer
+
+i don’t mind answering those kinds of questions, there’s a lot of fun enstars history both in the fandom and in the canon and it’s fun to preserve it in a way (?)
+i entered the fandom late 2016 so sadly i wasn’t there for the ex-fine chiaki theory, since i assume people were like &quot;oh Never Mind lmao&quot; when element came out and revealed it was tsumugi/nagisa/hiyori who were part of the unit, etc. but i do remember the fanart!!! if you go back to 2015-2016 fanworks for chiaki and eichi, you’ll easily find fanart of that concept, all because of eichi calling chiaki by his first name in the main story (which people felt it HAD to be significant)
+after it got debunked, i assume people moved on to a new theory thanks to wanted and supernova existing at around the same time as element… ? i’m not 100% sure since all those stories were in 2016, but it’d make sense. i’m looking through old tweets to get back a bit of my memory. but i think climax DEFINITELY started the thoughts back up because WHY WOULDN’T IT LMAO with how eichi was supporting chiaki’s dream… so people were all !!!! maybe they’re hospital friends after all…?!
+at around this time, people were reliving the main story moments between the two and eating it up over and over and letting it feed their insane thoughts, thanks to the novel, manga, and then the full voiced main story that got released in 2017.
+then according to my tweets, it seems like checkmate (may 2017) made the people with the hospital friends theory go &quot;…oh🧍‍♂️ never mind ig&quot; because it revealed that eichi and leo were hospital acquaintances/friends. can’t confirm this though and it’s been too long to remember clearly
+BUT THEN… crossroad in july!! that made people go 🔥🔥🔥🔥 finding out CHIAKI SAVES EICHI AND THEN WANTS TO VISIT HIM… i remember a lot of tweets being like &quot;please show us this scene i’m begging PLEASEE TELL US MOOOREEE&quot; (little did we know).
+so between 2017 up until the reveal in 2019 with saga, it was just a &quot;well, who fucking knows, but it HAS to be significant somehow because of all these stories. maybe. who knows!&quot;. particularly crossroad, while tasty, made it harder to tell if they would’ve known each other as hospital friends, since it sounded like chiaki didn’t really know eichi well. i recall that at the time, it was kinda hard to imagine them as hospital friends because &quot;then why don’t they remember each other&quot; (but i remember people ignoring that part just as much for their hospital friends delusions. good for them /pos)
+the theories started to &quot;die out&quot; a bit by the end of 2018 because all the hints were in 2016-2017 and the only 🔥🔥🔥 moment between eichi and chiaki was in the 2018 april fools story (which was Amazing), so… people were caught off guard SO FUCKING BADDDD, me included, when saga finally revealed the truth. OUT OF NOWHERE. NONE OF US WERE EXPECTING SAGA OF ALL STORIES TO HAVE SUCH IMPORTANT LORE FOR CHIAKI (AND EICHI) 😭😭😭
+like a lot of stories, saga came out in 2 parts. the first part was chill and pretty fun. as a chiakiP he was just being cute in the chapters so far. but then on january 5th… the 2nd half came out and Oh My God. THE SHOCKKK. EVERYONE ALL AT ONCE &quot;WAIT THEY WERE HOSPITAL FRIENDS AFTER ALl??? WE WERE RIGHT ALL ALONG!?@?!@?!?@!?#?!$?!?!?$!??&quot;
+some of my tweets from that time
+&quot;EICHI AND CHIAKI MET EACH OTHER WHEN THEY WERE YOUNGER??? but it wasnt that much they just met and talked a few times in a hospital room im wtf I CANT BELIEVE ITS CANON&quot;
+&quot;wtf what is this KGSKGE IS THIS AN ANIME OF LONG LOST CHILDHOOD FRIENDS yeah we both forgot about it but when we talked to each other more in school it all slowly came back to us uwu AKIRA GOING FULL OUT MAN&quot;
+&quot;the entire godamn fandom: GUYS EICHI CALLS CHIAKI &quot;CHIAKI&quot; WHEN HE DOESN’T DO THAT WITH MANY PEOPLE EXCEPT HIS UNITMATES AND KEITO GUYS!!! GUYS THERES SMTHN IN THERE
+akira: anyways tsumugi was in fine, leo and eichi were hospital friends in school
+us: ……
+akira:
+us:
+akira: and then eichi and chiaki were long lost childhood friends who forgot all about their meeting until they met each other again in school and slowly the memories poured into them as they talked m&quot;
+in retrospect, i think the ultimate funniest part of it all to me is……… both theories were right in their own way.
+&quot;ex-fine chiaki&quot; isn’t true but &quot;chiaki supported ex-fine at one point (until he found out the truth behind their actions)&quot; IS REAL LMAOOO SAGA WAS THE FIRST TO CONFIRM IT, AND METEOR IMPACT MENTIONS IT AGAIN!!! I LAUGHED OUT SO HARD LIKE PEOPLE WEREN’T EVEN TECHNICALLY WRONG ABOUT THE EX-FINE!CHIAKI IDEAS. and then &quot;hospital friends&quot; ended up being true AND WHAT WE DIDN’T ACCOUNT FOR IS THAT THEY MIGHT’VE JUST FORGOTTEN EACH OTHER AT ONE POINT !!! JUST BECAUSE THEY SEEMED LIKE STRANGERS IN CROSSROAD DIDN’T MEAN THEY DIDN’T KNOW EACH OTHER!!! it’s sooo fucking funny honestly.
+BUT IT WAS SUCH A GREAT DAY TO CELEBRATE, THE EICHI/CHIAKI FANART WAS EVERYWHERE AAAAAAAAAAAAAAAA THE WHOLE FANDOM CHEERED!!!! that was a magical time because BOTH eichiP and chiakiP were so happy by the discovery… (which is what makes me love their friendship even more, you can tell both oshiPs just fucking LOVE this dynamic soooo much!!!) like it was just… unbelievable???? the theory existed for almost 4 years. FOUR YEARSSSS TO CONFIRM WE WEREN’T WRONG TO SEE SOMETHING IN THE &quot;CHIAKI&quot; NAME LMAOOOOOOOOO AKIRA IS INSANE?? there was new crossroad eichi/chiaki fanart, hospital babies fanart, magical fanart of how they slowly came to realize it’s the same person they met long ago… 🥺🥺🥺
+oh and because it was such a random reveal, there were a LOOOT of &quot;so everyone just knows each other in their childhood huh&quot; memes because. of course there’d be. to this day this is an on-going thing in enstars stories kGMSKGS akira: everyone is childhood friends with each other, actually . alongside with &quot;and eichi STILL says chiaki isn’t his friend after all of this huh. ok dude if you say so&quot; tweets. so true. sooo true. and one more i remember is people joking that &quot;oh my god maybe akira saw all our theories and decided fuck it i’ll make it a reality actually&quot;
+but yeah overall it really was mainly because of the &quot;chiaki&quot;, also the villain vs hero stuff from main story and april fools… and all the stories they had that kept making people eager to Know… since well, it’s eichi we’re talking about here. it was so intriguing to read into why he’d keep showing bias towards chiaki and ryuseitai time and time again, despite initially mentioning how exhausting and loathesome heroes are. and likewise, chiaki having a pretty good relationship with the guy most of the cast deems a villain was so &quot;Tell Us More&quot; energy
+so it was VERY VERY VEEERY satisfying to find out that we were NEVER wrong to see something in that, even if the reveal took such a long time to happen!! the most satisfying part of it all was that, just because theories were debunked, didn’t mean their relationship was insignificant… 🥺 and now we’ve come this far with them… they’ve become so so significant that we’re even likely to get an eichi look back gacha uuuu 🥺🥺🥺🥺
+this tweet i made after ep:link came out in september 2019 is making me laugh bad though, so i’d like to share it (context: ep:link had a small part where eichi mentions he invited chiaki to join starpro LOL)
+&quot; fellas, is it weird to call the person you knew in your childhood and then met again in high school after he saved you in a livehouse and visited you in the hospital, who you then helped keep his unit alive, and then eventually helped with his career too, a ’friend’ &quot;
+i feel like the reveal that stella maris chiaki CG was towards eichi all along had that similar level of &quot;?!!?@?!?@?!@?!?&quot; as saga, like &quot;OHHHH MY GOD THEY REALLY ARE THAT RELEVANT!!!!&quot;, so that was nice to experience again for veterans, and i hope new chiaki and eichi fans also had fun experiencing it GKMGSKGE because yeah i’d say that that was pretty similar to how it felt back then too… just like, oh my god akira is not fucking around with this friendship!!! LET’S GOOOOO
+i wrote this in a daze so i can only hope it makes some sense… thank you for asking!!! enstars history (as a game) is fun… i love how you can constantly be part of the journey to discover new, big things, it’s just sooo exciting
+if you’re interested in more fandom history, i’m compiling all my answers in the fandom history category ❤️
+]]></content>
+      <categories>
+        <category>Answered Questions</category>
+        <category>Fandom History</category>
       </categories>
       <tags>
         <tag>Question and Answer</tag>
@@ -3577,46 +3513,91 @@ td {
 ]]></content>
   </entry>
   <entry>
-    <title>Answered Question: Fandom’s Theories About Eichi And Chiaki’s Relationship Until Its Reveal</title>
-    <url>//20240208_1/</url>
+    <title>Answered Question: About Chiaki’s ‘Takamine-kun’ line in Sweet Halloween</title>
+    <url>//20240822_1/</url>
     <content><![CDATA[
-Wait I didn’t consider that you were there before the reveal of Chiaki and Eichi’s connection 👀 Do you think you can give your experience on what it was like when people were trying to figure out what kind of connection those two had and what it was like when it was finally revealed they’re childhood friends from the hospital? Sorry I know you get a bunch of questions on what it was like in the old days of the fandom. But speaking as a newbie to Enstars I find it so fun and interesting to get info on what it was like in the early years of the fandom from those who were there and are still invested!
+hey… diff anon piggybacking off of the ask about chiakis changes in tone over the years. you said that theres multiple implications over chiakis tone change in the &quot;takamine-kun&quot; line… do you mind me asking what those implications are? the little worm inside my brain that loves chiaki has its interests peaked
 
-Sent and answered in February 2024. tweet link of the answer
+Sent and answered in August 2024. tweet link of the answer
 
-i don’t mind answering those kinds of questions, there’s a lot of fun enstars history both in the fandom and in the canon and it’s fun to preserve it in a way (?)
-i entered the fandom late 2016 so sadly i wasn’t there for the ex-fine chiaki theory, since i assume people were like &quot;oh Never Mind lmao&quot; when element came out and revealed it was tsumugi/nagisa/hiyori who were part of the unit, etc. but i do remember the fanart!!! if you go back to 2015-2016 fanworks for chiaki and eichi, you’ll easily find fanart of that concept, all because of eichi calling chiaki by his first name in the main story (which people felt it HAD to be significant)
-after it got debunked, i assume people moved on to a new theory thanks to wanted and supernova existing at around the same time as element… ? i’m not 100% sure since all those stories were in 2016, but it’d make sense. i’m looking through old tweets to get back a bit of my memory. but i think climax DEFINITELY started the thoughts back up because WHY WOULDN’T IT LMAO with how eichi was supporting chiaki’s dream… so people were all !!!! maybe they’re hospital friends after all…?!
-at around this time, people were reliving the main story moments between the two and eating it up over and over and letting it feed their insane thoughts, thanks to the novel, manga, and then the full voiced main story that got released in 2017.
-then according to my tweets, it seems like checkmate (may 2017) made the people with the hospital friends theory go &quot;…oh🧍‍♂️ never mind ig&quot; because it revealed that eichi and leo were hospital acquaintances/friends. can’t confirm this though and it’s been too long to remember clearly
-BUT THEN… crossroad in july!! that made people go 🔥🔥🔥🔥 finding out CHIAKI SAVES EICHI AND THEN WANTS TO VISIT HIM… i remember a lot of tweets being like &quot;please show us this scene i’m begging PLEASEE TELL US MOOOREEE&quot; (little did we know).
-so between 2017 up until the reveal in 2019 with saga, it was just a &quot;well, who fucking knows, but it HAS to be significant somehow because of all these stories. maybe. who knows!&quot;. particularly crossroad, while tasty, made it harder to tell if they would’ve known each other as hospital friends, since it sounded like chiaki didn’t really know eichi well. i recall that at the time, it was kinda hard to imagine them as hospital friends because &quot;then why don’t they remember each other&quot; (but i remember people ignoring that part just as much for their hospital friends delusions. good for them /pos)
-the theories started to &quot;die out&quot; a bit by the end of 2018 because all the hints were in 2016-2017 and the only 🔥🔥🔥 moment between eichi and chiaki was in the 2018 april fools story (which was Amazing), so… people were caught off guard SO FUCKING BADDDD, me included, when saga finally revealed the truth. OUT OF NOWHERE. NONE OF US WERE EXPECTING SAGA OF ALL STORIES TO HAVE SUCH IMPORTANT LORE FOR CHIAKI (AND EICHI) 😭😭😭
-like a lot of stories, saga came out in 2 parts. the first part was chill and pretty fun. as a chiakiP he was just being cute in the chapters so far. but then on january 5th… the 2nd half came out and Oh My God. THE SHOCKKK. EVERYONE ALL AT ONCE &quot;WAIT THEY WERE HOSPITAL FRIENDS AFTER ALl??? WE WERE RIGHT ALL ALONG!?@?!@?!?@!?#?!$?!?!?$!??&quot;
-some of my tweets from that time
-&quot;EICHI AND CHIAKI MET EACH OTHER WHEN THEY WERE YOUNGER??? but it wasnt that much they just met and talked a few times in a hospital room im wtf I CANT BELIEVE ITS CANON&quot;
-&quot;wtf what is this KGSKGE IS THIS AN ANIME OF LONG LOST CHILDHOOD FRIENDS yeah we both forgot about it but when we talked to each other more in school it all slowly came back to us uwu AKIRA GOING FULL OUT MAN&quot;
-&quot;the entire godamn fandom: GUYS EICHI CALLS CHIAKI &quot;CHIAKI&quot; WHEN HE DOESN’T DO THAT WITH MANY PEOPLE EXCEPT HIS UNITMATES AND KEITO GUYS!!! GUYS THERES SMTHN IN THERE
-akira: anyways tsumugi was in fine, leo and eichi were hospital friends in school
-us: ……
-akira:
-us:
-akira: and then eichi and chiaki were long lost childhood friends who forgot all about their meeting until they met each other again in school and slowly the memories poured into them as they talked m&quot;
-in retrospect, i think the ultimate funniest part of it all to me is……… both theories were right in their own way.
-&quot;ex-fine chiaki&quot; isn’t true but &quot;chiaki supported ex-fine at one point (until he found out the truth behind their actions)&quot; IS REAL LMAOOO SAGA WAS THE FIRST TO CONFIRM IT, AND METEOR IMPACT MENTIONS IT AGAIN!!! I LAUGHED OUT SO HARD LIKE PEOPLE WEREN’T EVEN TECHNICALLY WRONG ABOUT THE EX-FINE!CHIAKI IDEAS. and then &quot;hospital friends&quot; ended up being true AND WHAT WE DIDN’T ACCOUNT FOR IS THAT THEY MIGHT’VE JUST FORGOTTEN EACH OTHER AT ONE POINT !!! JUST BECAUSE THEY SEEMED LIKE STRANGERS IN CROSSROAD DIDN’T MEAN THEY DIDN’T KNOW EACH OTHER!!! it’s sooo fucking funny honestly.
-BUT IT WAS SUCH A GREAT DAY TO CELEBRATE, THE EICHI/CHIAKI FANART WAS EVERYWHERE AAAAAAAAAAAAAAAA THE WHOLE FANDOM CHEERED!!!! that was a magical time because BOTH eichiP and chiakiP were so happy by the discovery… (which is what makes me love their friendship even more, you can tell both oshiPs just fucking LOVE this dynamic soooo much!!!) like it was just… unbelievable???? the theory existed for almost 4 years. FOUR YEARSSSS TO CONFIRM WE WEREN’T WRONG TO SEE SOMETHING IN THE &quot;CHIAKI&quot; NAME LMAOOOOOOOOO AKIRA IS INSANE?? there was new crossroad eichi/chiaki fanart, hospital babies fanart, magical fanart of how they slowly came to realize it’s the same person they met long ago… 🥺🥺🥺
-oh and because it was such a random reveal, there were a LOOOT of &quot;so everyone just knows each other in their childhood huh&quot; memes because. of course there’d be. to this day this is an on-going thing in enstars stories kGMSKGS akira: everyone is childhood friends with each other, actually . alongside with &quot;and eichi STILL says chiaki isn’t his friend after all of this huh. ok dude if you say so&quot; tweets. so true. sooo true. and one more i remember is people joking that &quot;oh my god maybe akira saw all our theories and decided fuck it i’ll make it a reality actually&quot;
-but yeah overall it really was mainly because of the &quot;chiaki&quot;, also the villain vs hero stuff from main story and april fools… and all the stories they had that kept making people eager to Know… since well, it’s eichi we’re talking about here. it was so intriguing to read into why he’d keep showing bias towards chiaki and ryuseitai time and time again, despite initially mentioning how exhausting and loathesome heroes are. and likewise, chiaki having a pretty good relationship with the guy most of the cast deems a villain was so &quot;Tell Us More&quot; energy
-so it was VERY VERY VEEERY satisfying to find out that we were NEVER wrong to see something in that, even if the reveal took such a long time to happen!! the most satisfying part of it all was that, just because theories were debunked, didn’t mean their relationship was insignificant… 🥺 and now we’ve come this far with them… they’ve become so so significant that we’re even likely to get an eichi look back gacha uuuu 🥺🥺🥺🥺
-this tweet i made after ep:link came out in september 2019 is making me laugh bad though, so i’d like to share it (context: ep:link had a small part where eichi mentions he invited chiaki to join starpro LOL)
-&quot; fellas, is it weird to call the person you knew in your childhood and then met again in high school after he saved you in a livehouse and visited you in the hospital, who you then helped keep his unit alive, and then eventually helped with his career too, a ’friend’ &quot;
-i feel like the reveal that stella maris chiaki CG was towards eichi all along had that similar level of &quot;?!!?@?!?@?!@?!?&quot; as saga, like &quot;OHHHH MY GOD THEY REALLY ARE THAT RELEVANT!!!!&quot;, so that was nice to experience again for veterans, and i hope new chiaki and eichi fans also had fun experiencing it GKMGSKGE because yeah i’d say that that was pretty similar to how it felt back then too… just like, oh my god akira is not fucking around with this friendship!!! LET’S GOOOOO
-i wrote this in a daze so i can only hope it makes some sense… thank you for asking!!! enstars history (as a game) is fun… i love how you can constantly be part of the journey to discover new, big things, it’s just sooo exciting
-if you’re interested in more fandom history, i’m compiling all my answers in the fandom history category ❤️
+WAH… DIDN’T EXPECT SOMEONE TO BE INTERESTED
+To be honest, I need to confirm with a native Japanese speaker about ALL the implications BUT I’ll explain my thought process and possible implications.
+This is a continuation of what I said in the answer already, so for any missing context, it might have already been covered in there. The ask and the answer here.
+So this part about Chiaki is notable about him in general, rather than specifically the difference between 1st/2nd year Chiaki and current Chiaki.
+I’ll just copy paste what I said real quick:
+
+There are a few moments here and there when Chiaki words himself in a more meek or unsure manner and starts speaking more politely (when he gets scared that there’s a ghost in 1st year Chapter 1, when Kuro first appears and freaks him out in Chapter 5). He still does this sort of thing nowadays when he gets scared, happens as recent as VS Gourmet, Praise of Delicious Flavors 9 (cute).
+Sweet halloween is the one that did this a LITTLE differently where he kinda talks more casually and plainly to express politeness. It’s mainly in let’s party 2, the &quot;Takamine-kun&quot; line. I think, because he’s talking to Midori (someone younger than him), he shows that politeness by AVOIDING talking in a rough/informal manner, rather than showing it through wording himself in an OVERLY polite manner (which is how you would speak to someone older than or above you, and that doesn’t work here when Midori is younger than him)…
+
+As I said, there’s a lot more implications to this than what I wrote above. On one hand, it’s likely that the reason he talks to Midori like this is to express politeness to someone younger (Using &quot;Takamine-kun&quot; and asking nicely), but there is another implication to it.
+Chiaki’s typical way of speaking can make him sound more confident or bold due to the masculine tone. So when Chiaki speaks a lot more plainly, the sudden lack of masculine tone gives off the feeling of a vulnerable or &quot;unadulterated&quot; side of him, or just not as confident of himself.
+For example, Chiaki typically says suman, sumanai, or gomen na to apologize, all of which sound masculine. So when he uses gomen instead, it sounds less &quot;bold&quot; in comparison. (Note, the na is what gives off the masculine feel)
+This sort of thing is what stands out about the Sweet Halloween scene. First, let’s break down the scene a bit. Chiaki says:
+
+eh? ta-takamine? takamine-kun, kyodai na gankyuu o oshitsukeru no wa yametekureru?
+jibun-tachi de tsukutta kara kazari no nisemono datte wakatteru kedo, yappari gurokute kimochi warui!
+
+
+Wh—!? T-Takamine? Takamine-kun, could you please not shove that giant eyeball in my face…?
+We made them ourselves, so I know it’s fake and all, but it’s seriously creepy-looking…!
+
+The bolded parts are the parts that make you think &quot;Wait, that’s not the typical way Chiaki speaks&quot;. If it were the usual Chiaki with his masculine way of speaking, he’d have said it like this:
+
+eh? ta-takamine? takamine, kyodai na gankyuu o oshitsukeru no wa yametekurenai ka?
+jibun-tachi de tsukutta kara kazari no nisemono datte wakatteru ga, yappari gurokute kimochi warui zo!
+
+(Last part with kimochi warui is debatable to be honest, he could still say it as is, without the added zo, but I think it’d have been way more typical Chiaki to add a zo or na at the end)
+So first, there’s a change in how he calls Midori, then he switches to a plain non-masculine tone to politely ask Midori to stop, then he uses kedo for &quot;but&quot; instead of ga (which fits the masculine tone. And if Chiaki ever uses kedo, it’s with na at the end of the sentence, like kedo na), and then ends it with a plain kimochi warui
+I neglected to mention that this has happened before in two occasions, Meteor Impact and VS GOURMET. EXCEPT!!! Unlike in Sweet Halloween, he was just talking to himself while freaking out AND it still sounds a bit different from the above case, since again, he was also trying to ask Midori in a politer way to stop.
+In Meteor Impact 1st year Chapter 1, right at the start:
+
+(…kowai! hisshi ni kakkoii koto o itte onore o kobu shitemita kedo mou muri! kaeritai~!)
+
+
+(…It’s too scary! I’m trying so hard to encourage myself with super cool catchphrases, but I can’t take this anymore! I wanna go home~!!)
+
+The bolded part sounds childish, I tried to show this by making him say &quot;I wanna go home~!&quot;. But to be fair, it makes sense for Chiaki to sound innocent and vulnerable during his 1st year days.
+Then we have VS GOURMET Praise of Delicious Flavors 9, when Mayoi starts mumbling:
+
+eh. futsuu ni kowai!
+genchou to iu koto ni shite kizukanakatta koto ni shitai ga… mi ni ikanakya dame kanaa!?
+
+
+Huh!? This is just freaky!
+I really just want to pretend I didn’t notice it and wave it off as a hallucination, but… Do I have to go and see what it is~!?
+
+The futsuu ni kowai! is a very… unfiltered? way to express it, it almost sounds teenager-like. Here, he actually DOES use one typical masculine way of speaking, the ga (&quot;but&quot;), but then immediately speaks extremely casually again at the very end. I tried to show this with the italics and Chiaki expressing his fear in a more casual way with him saying &quot;just freaky!&quot;. The moment he realizes it’s Mayoi he goes back to speaking his usual way.
+So, these are my own personal interpretation and speculations, but here are the things I find interesting about all of this:
+
+
+It’s likely that this is a very unfiltered Chiaki. He’s so freaked out that he can’t even respond in his usual way… if that makes sense.
+
+
+It’s possible this is related to how Chiaki used to speak as a kid, since it’s much more plain. It also sounds a bit more childish from the sudden loss of ANY masculine/bold tone, so while it feels more or less natural to hear 1st year Chiaki freak out like that, Chiaki still reacting in that tone at age 18-19 feels &quot;oh…?&quot;
+
+
+The main ways we’ve seen it is either Chiaki being freaked out by something scaring him, or Midori freaking Chiaki out. In all these years of content and story, Midori is still the only person who deliberately spooked Chiaki so hard that it brought out this different, unfiltered side of him in response. Very fitting for Midori’s role in Chiaki’s life. Heh.
+
+
+As mentioned in my previous ask, when Chiaki gets spooked he starts speaking politely, typically towards the ghost that’s freaking him out (&quot;I’m so sorry! Please don’t curse me!&quot;). But in these cases, he’s speaking casually and plainly. So it’s interesting that Chiaki’s speaking to Midori in that tone. It’s almost like Chiaki is speaking to Midori on the same level (not as someone older than him, and neither as if Midori is above him). And I must emphasize… Midori deliberately tried to scare him here, so Midori himself brought this side of Chiaki out with his actions. (Very Important) (Very Relevant To Their Relationship)
+
+
+All in all, just a very interesting thing about Chiaki that’s fun to take note of as we get to see more of this unfiltered side of him!!
+The main thing I’m not sure of is if I’m overreaching a little TOO much. To be clear, it IS significant and I see JP ChiakiP comment on it all the time whenever Chiaki does this (that Sweet Halloween line in particular is still very famous for the sudden Takamine-kun and used often in fanworks under similar &quot;Midori scaring Chiaki&quot; situations, and the recent Gourmet scenes had ChiakiP go &quot;he’s talking plainly here it feels unfiltered and cute&quot;), but it may not be significant in the way that I’m personally thinking. So it’d be nice to just get a full confirmation by having a discussion about it with a JP native speaker (tempted to get a JP lesson with a teacher about this… anything for Him)
+Some notes:
+
+
+Chiaki does occasionally use kedo (without the na) to say &quot;but&quot;, but very sparsely or because it grammatically fits better. Otherwise, he typically says kedo na or ga.
+
+
+Chiaki’s spiral towards Subaru in Meteor Impact also contains a bit of that &quot;sounding more vulnerable in his tone&quot;, but it’s in an entirely different way from how he speaks when he gets spooked. It’s more that his tone also shows how emotionally distraught and unfiltered he is at that moment.
+
+
+If I have more to add, I’ll edit this post in and mention an update on the tweet. Thank you for asking, I got so into it because I just love Chiaki so much!! Let me know if anything was unclear or if you have other questions.
 ]]></content>
       <categories>
         <category>Answered Questions</category>
-        <category>Fandom History</category>
+        <category>Chiaki Rambles</category>
       </categories>
       <tags>
         <tag>Question and Answer</tag>
@@ -3921,28 +3902,6 @@ hehe it was fun gushing about ryuseitai… thank you for asking!!
       </tags>
   </entry>
   <entry>
-    <title>Answered Question: Perception of Canon and its Relationships</title>
-    <url>//20240921_1/</url>
-    <content><![CDATA[i accidentally linked this post to a question about midori's inner thoughts about chiaki, please go here for the answer to that question!!
---
-
-those two asks answered my question pretty much! but i do find your perspective fascinating because i don’t think approaching relationships from this sort of angle is really common in fandom? or in my experience at least. i really like your explanation of characters being fundamentally the answer to each other, but i wouldn’t say such a broad perspective is really common among fans. because the topic of ships can be such a touch-y subject for many people, i noticed some tend to hone in on specific dynamics, and ignore everything else that might possibly interfere with it (even fundamentally important platonic relationships!!). but i do think there’s value in analyzing things even if you don’t per se enjoy it, and that itself can be worthy of analysis too!
-
-Sent and answered in September 2024. tweet link of the answer. continuation of this ask
-
-weh i’m glad, thank you for reading them 😭😭 YEAH IT’S NOT COMMON LOL… i notice it quite often among the fandom and i don’t blame them like I Get it, plus it’s not like it’s mandatory to consume every dynamic your fav has LMAO but yeah, it’s not how i explore canon personally…
-like i actually think midochia is MORE elevated by ALLLLLL the relationships around the two and midochia’s dynamic itself is what gets me FURTHER invested in the rest of their dynamics and vice versa. i can’t get myself to consume midochia separately and independently from other relationships. in fact i talk about tetora and chiaki’s relationship here (romantic mentions in the ask) while relating it directly back to my love for midochia, and the same with when i spoke about tetora and midori’s relationship here. BOTH OF WHICH ARE CRUCIAL RELATIONSHIPS TO UNDERSTAND MIDOCHIA SO FUCKING MUCH. I CAN TALK ABOUT IT FOR YEARS. but also that i will be speaking about it while being Extremely Biased towards midochia and in the context of &quot;midochia are the answer to each other’s arcs&quot; because that’s my perception of canon and what i believe canon is working towards. (you don’t have to read those asks btw i’m just insane about midochia and ryuseitai)
-and YEAH!!! THERE’S ALWAYS VALUE IN ANALYSIS I AGREE! sometimes there’s some dynamics i’m Extremely Neutral about but i acknowledge they have a lot of canon relevance so i still want to make sense of that… sometimes it’s the opposite, i’m well aware canon is saying these two won’t healthily work for each other but that’s why i’m so invested in it LMAO i won’t even BOTHER to pretend they’re The Answer to each other’s arcs!!! i know they probably will never be on the same page AND IT’S SO GOOD!!!
-and i feel like all of this thinking and analyzing gives me a better picture of Why these dynamics exist for the character since i truly believe practically any dynamic established in enstars has a reason and purpose to it (especially if akira is the one who wrote it. that guy is extremely deliberate with his writing choices imo). and i absolutely Never Ever think platonic relationships are less relevant than romantically-written relationships… in fact what i love So Much about enstars is that platonically-written and romantically-written relationships both hold so SO much weight and are so crucial and it’s so good… so fucking good GUHHHH (and as mentioned in the asks i linked and in here, sometimes i actually do romantically ship the platonically-written dynamic so it reaaally has nothing to do with my ship preferences LOL) (Except Midochia.) (i’m just plain insane about midochia it’s on a different level entirely)
-]]></content>
-      <categories>
-        <category>Answered Questions</category>
-      </categories>
-      <tags>
-        <tag>Question and Answer</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Answered Question: What I Miss from ! Era (Pre-Enstars Music days)</title>
     <url>//20240916_1/</url>
     <content><![CDATA[
@@ -3962,6 +3921,28 @@ if you’re interested in more fandom history, i’m compiling all my answers in
       <categories>
         <category>Answered Questions</category>
         <category>Fandom History</category>
+      </categories>
+      <tags>
+        <tag>Question and Answer</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Answered Question: Perception of Canon and its Relationships</title>
+    <url>//20240921_1/</url>
+    <content><![CDATA[i accidentally linked this post to a question about midori's inner thoughts about chiaki, please go here for the answer to that question!!
+--
+
+those two asks answered my question pretty much! but i do find your perspective fascinating because i don’t think approaching relationships from this sort of angle is really common in fandom? or in my experience at least. i really like your explanation of characters being fundamentally the answer to each other, but i wouldn’t say such a broad perspective is really common among fans. because the topic of ships can be such a touch-y subject for many people, i noticed some tend to hone in on specific dynamics, and ignore everything else that might possibly interfere with it (even fundamentally important platonic relationships!!). but i do think there’s value in analyzing things even if you don’t per se enjoy it, and that itself can be worthy of analysis too!
+
+Sent and answered in September 2024. tweet link of the answer. continuation of this ask
+
+weh i’m glad, thank you for reading them 😭😭 YEAH IT’S NOT COMMON LOL… i notice it quite often among the fandom and i don’t blame them like I Get it, plus it’s not like it’s mandatory to consume every dynamic your fav has LMAO but yeah, it’s not how i explore canon personally…
+like i actually think midochia is MORE elevated by ALLLLLL the relationships around the two and midochia’s dynamic itself is what gets me FURTHER invested in the rest of their dynamics and vice versa. i can’t get myself to consume midochia separately and independently from other relationships. in fact i talk about tetora and chiaki’s relationship here (romantic mentions in the ask) while relating it directly back to my love for midochia, and the same with when i spoke about tetora and midori’s relationship here. BOTH OF WHICH ARE CRUCIAL RELATIONSHIPS TO UNDERSTAND MIDOCHIA SO FUCKING MUCH. I CAN TALK ABOUT IT FOR YEARS. but also that i will be speaking about it while being Extremely Biased towards midochia and in the context of &quot;midochia are the answer to each other’s arcs&quot; because that’s my perception of canon and what i believe canon is working towards. (you don’t have to read those asks btw i’m just insane about midochia and ryuseitai)
+and YEAH!!! THERE’S ALWAYS VALUE IN ANALYSIS I AGREE! sometimes there’s some dynamics i’m Extremely Neutral about but i acknowledge they have a lot of canon relevance so i still want to make sense of that… sometimes it’s the opposite, i’m well aware canon is saying these two won’t healthily work for each other but that’s why i’m so invested in it LMAO i won’t even BOTHER to pretend they’re The Answer to each other’s arcs!!! i know they probably will never be on the same page AND IT’S SO GOOD!!!
+and i feel like all of this thinking and analyzing gives me a better picture of Why these dynamics exist for the character since i truly believe practically any dynamic established in enstars has a reason and purpose to it (especially if akira is the one who wrote it. that guy is extremely deliberate with his writing choices imo). and i absolutely Never Ever think platonic relationships are less relevant than romantically-written relationships… in fact what i love So Much about enstars is that platonically-written and romantically-written relationships both hold so SO much weight and are so crucial and it’s so good… so fucking good GUHHHH (and as mentioned in the asks i linked and in here, sometimes i actually do romantically ship the platonically-written dynamic so it reaaally has nothing to do with my ship preferences LOL) (Except Midochia.) (i’m just plain insane about midochia it’s on a different level entirely)
+]]></content>
+      <categories>
+        <category>Answered Questions</category>
       </categories>
       <tags>
         <tag>Question and Answer</tag>
@@ -4034,58 +4015,6 @@ FOR EXAMPLE I WILL NEVER!!!!!! GET OVER!!!!!!!! THE WAY MIDORI’S PETTY FEELING
       <categories>
         <category>Answered Questions</category>
         <category>Other Ships</category>
-      </categories>
-      <tags>
-        <tag>Question and Answer</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Answered Question: Interviewing Akira</title>
-    <url>//20250608_2/</url>
-    <content><![CDATA[
-Hi! If you had the chance to interview Akira (and any other subwriter), what would you ask them?
-
-Sent in September 2024, answered in June 2025. tweet link of the answer
-
-this ask was sent to me months back in september 2024, and a lot has changed about enstars since then… but first, i’ll answer with what i would’ve said back in september!!
-if i had the chance to interview akira or any of the writers, i would LOVE to know the writing process. do they work off of notes, are they given a baseline of what the next event has to be about and what they have to add, etc. i’m so curious about the writing process behind event stories especially.
-for questions to akira specifically, i would even want to know stuff like, does he refresh himself by rereading past stories before writing a new lore-heavy story? some plotlines he’s written are such insane callbacks to really old stories that there’s no way he could still remember that without notes or re-reading the story. and i mean REALLY miniscule details from past stories suddenly being relevant out of nowhere. and where does he even get the inspiration to write about some of the stuff he integrates in stories, anyway. sometimes it feels like akira read something and felt like adding it to the next enstars story he had to write LOL. and i’m so curious, how far ahead did he plan some things he ended up revealing about characters?? some reveals were insane slowburns (a big example is the reveal that past kanata had felt empty after forcibly making himself forget things. that took all the way until 2024 to be revealed to us omg), so it’s like…!?!?
-but as i said, a lot has changed about enstars since this ask was sent in, and i don’t think akira writes enstars stories anymore. this is my personal speculation, but i don’t really get the impression any of the 2025 stories have been by akira. so lately the thoughts that come to my mind is wondering what he’s been doing lately.
-]]></content>
-      <categories>
-        <category>Answered Questions</category>
-      </categories>
-      <tags>
-        <tag>Question and Answer</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Answered Question: Favorite Madly In Love Chiaki Moment</title>
-    <url>//20250609_1/</url>
-    <content><![CDATA[
-haiiii! could you tell me your most favorite chiaki moment that made you go “he’s so madly in love nothings gonna stop him” but before gourmet .!! thankyouuuy
-
-Sent and answered in June 2025. tweet link of the answer
-
-i love how midochia isn’t even mentioned here and i still know it’s about it… so true!
-even when not counting gourmet, there’s still way too many favorite scenes… so i tried to instead think about a scene that has kept me afloat when it comes to chiaki’s feelings towards midori. something that has been stuck on my mind for years, like what the Hell did he mean by this.
-in which case, it’d be a classic one from climax:
-
-Midori: Basketball courts are small anyway, so it’s really crowded and suffocating with this many people around…
-
-
-Chiaki: What’s that? You’re in pain, Takamine!? Alright then, let me perform the lifesaving technique I learned from Kanata! I’ll give you oxygen through mouth-to-mouth…☆
-
-
-Midori: Gaahh!? Get your face away from me, you weirdo! I’ll seriously call the police…!
-
-THIS INSANE SCENE HAS BEEN STUCK IN MY MIND FOR YEARSSSS the fact it happens in the same chapters where it’s established subaru’s jealous of midori for having chiaki all for himself, and midori feeling like he &quot;kept chiaki for himself&quot; is like… uhm… i-is he okay? does he even know what he’s doing?
-it’s been the core point of a lot of my old midochia ideas that involve chiaki being in love with midori but Not Realizing He Loves Him Like That. especially since i really enjoyed thinking about chiaki taking forever to realize it’s okay and completely normal/possible to be in love with another guy
-now i love how it’s been so many years since climax and this line still ages so well in both &quot;oh yeah, chiaki Is Definitely Obsessed With Midori&quot; and &quot;what the fuck did he even mean by this is he okay&quot; ways like truly. the best chiaki flavors of all. imagine feeling so overwhelmed with loneliness and sadness from graduation that you try to find any random excuse to possibly kiss the junior you poured one whole year of love into. he’s crazy ❤️❤️
-]]></content>
-      <categories>
-        <category>Answered Questions</category>
-        <category>MidoChia Rambles</category>
       </categories>
       <tags>
         <tag>Question and Answer</tag>
@@ -4175,8 +4104,60 @@ thank you for asking, it was so much fun to go down a nostalgia trip and really 
 ]]></content>
       <categories>
         <category>Answered Questions</category>
-        <category>Chiaki Rambles</category>
         <category>Fandom History</category>
+        <category>Chiaki Rambles</category>
+      </categories>
+      <tags>
+        <tag>Question and Answer</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Answered Question: Interviewing Akira</title>
+    <url>//20250608_2/</url>
+    <content><![CDATA[
+Hi! If you had the chance to interview Akira (and any other subwriter), what would you ask them?
+
+Sent in September 2024, answered in June 2025. tweet link of the answer
+
+this ask was sent to me months back in september 2024, and a lot has changed about enstars since then… but first, i’ll answer with what i would’ve said back in september!!
+if i had the chance to interview akira or any of the writers, i would LOVE to know the writing process. do they work off of notes, are they given a baseline of what the next event has to be about and what they have to add, etc. i’m so curious about the writing process behind event stories especially.
+for questions to akira specifically, i would even want to know stuff like, does he refresh himself by rereading past stories before writing a new lore-heavy story? some plotlines he’s written are such insane callbacks to really old stories that there’s no way he could still remember that without notes or re-reading the story. and i mean REALLY miniscule details from past stories suddenly being relevant out of nowhere. and where does he even get the inspiration to write about some of the stuff he integrates in stories, anyway. sometimes it feels like akira read something and felt like adding it to the next enstars story he had to write LOL. and i’m so curious, how far ahead did he plan some things he ended up revealing about characters?? some reveals were insane slowburns (a big example is the reveal that past kanata had felt empty after forcibly making himself forget things. that took all the way until 2024 to be revealed to us omg), so it’s like…!?!?
+but as i said, a lot has changed about enstars since this ask was sent in, and i don’t think akira writes enstars stories anymore. this is my personal speculation, but i don’t really get the impression any of the 2025 stories have been by akira. so lately the thoughts that come to my mind is wondering what he’s been doing lately.
+]]></content>
+      <categories>
+        <category>Answered Questions</category>
+      </categories>
+      <tags>
+        <tag>Question and Answer</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Answered Question: Favorite Madly In Love Chiaki Moment</title>
+    <url>//20250609_1/</url>
+    <content><![CDATA[
+haiiii! could you tell me your most favorite chiaki moment that made you go “he’s so madly in love nothings gonna stop him” but before gourmet .!! thankyouuuy
+
+Sent and answered in June 2025. tweet link of the answer
+
+i love how midochia isn’t even mentioned here and i still know it’s about it… so true!
+even when not counting gourmet, there’s still way too many favorite scenes… so i tried to instead think about a scene that has kept me afloat when it comes to chiaki’s feelings towards midori. something that has been stuck on my mind for years, like what the Hell did he mean by this.
+in which case, it’d be a classic one from climax:
+
+Midori: Basketball courts are small anyway, so it’s really crowded and suffocating with this many people around…
+
+
+Chiaki: What’s that? You’re in pain, Takamine!? Alright then, let me perform the lifesaving technique I learned from Kanata! I’ll give you oxygen through mouth-to-mouth…☆
+
+
+Midori: Gaahh!? Get your face away from me, you weirdo! I’ll seriously call the police…!
+
+THIS INSANE SCENE HAS BEEN STUCK IN MY MIND FOR YEARSSSS the fact it happens in the same chapters where it’s established subaru’s jealous of midori for having chiaki all for himself, and midori feeling like he &quot;kept chiaki for himself&quot; is like… uhm… i-is he okay? does he even know what he’s doing?
+it’s been the core point of a lot of my old midochia ideas that involve chiaki being in love with midori but Not Realizing He Loves Him Like That. especially since i really enjoyed thinking about chiaki taking forever to realize it’s okay and completely normal/possible to be in love with another guy
+now i love how it’s been so many years since climax and this line still ages so well in both &quot;oh yeah, chiaki Is Definitely Obsessed With Midori&quot; and &quot;what the fuck did he even mean by this is he okay&quot; ways like truly. the best chiaki flavors of all. imagine feeling so overwhelmed with loneliness and sadness from graduation that you try to find any random excuse to possibly kiss the junior you poured one whole year of love into. he’s crazy ❤️❤️
+]]></content>
+      <categories>
+        <category>Answered Questions</category>
+        <category>MidoChia Rambles</category>
       </categories>
       <tags>
         <tag>Question and Answer</tag>
